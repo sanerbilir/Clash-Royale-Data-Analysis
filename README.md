@@ -3,6 +3,8 @@
 
 This project aims to analyze and model Clash Royale match data to gain insights into various aspects of gameplay and predict match outcomes. 
 
+* https://youtu.be/k7TJnIMcx1A
+
 ## Data
 
 The dataset used in this project contains information about 124 individual matches, including player decks, card choices, match outcomes, and other relevant features. The dataset is in CSV format and is named `CRDatason.csv`.
